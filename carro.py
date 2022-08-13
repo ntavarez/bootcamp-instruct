@@ -1,4 +1,4 @@
-class Carro:
+class Carro():
     def __init__(self):
         self.ligado = False
         self.cor = 'Preto'
